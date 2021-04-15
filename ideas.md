@@ -18,6 +18,9 @@ Most of these can be found with Google search.
 ## Model Calibration
 - Platt scaling
 
+## Exotic Papers
+- (Differentiation of Blackbox Combinatorial Solvers)[https://arxiv.org/abs/1912.02175]
+
 ## Deep Neural Net Training Tricks
 - Minimum Hyperspherical Energy regularization
 - Using GELU / PRELU instead of RELU
