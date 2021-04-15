@@ -1,4 +1,2 @@
-# Exotic ML
-A curated collection of niche ML and data science tools. 
-These mostly reflect my personal learning over 4+ years of education. 
-Contributions welcome!
+# My Software Development Journal
+A record of assorted tools, concepts, and libraries that I've used over the years. 
