@@ -11,6 +11,11 @@ These are mostly optimized for Python development
 - Backend: Flask, FastAPI
 - Frontend: ReactJS + TypeScript + Material UI
 
+## Numerical Algorithms
+- Convex optimization: CvxPy
+- Interior point method: CyIpOpt
+- Efficient calculation: Numba
+
 ## Deep Learning Development
 - Basic framework: PyTorch
 - Advanced framework: Pytorch Lightning
