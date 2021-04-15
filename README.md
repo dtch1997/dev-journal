@@ -1,7 +1,9 @@
 # My Software Development Journal
-A record of assorted tools, concepts, and libraries that I've used / heard of over the years and found to be effective
+A record of assorted tools, concepts, and libraries that I've used / heard of over the years and found to be effective. 
 
-## Development Environment
+These are mostly optimized for Python development
+
+## Dev Tools
 - IDE: VSCode
 - Package management: Anaconda, Poetry, Yarn
 
