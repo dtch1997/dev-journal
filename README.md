@@ -21,6 +21,7 @@ These are mostly optimized for Python development
 
 ## Deep Learning Deployment
 - Model endpoint: AWS SageMaker
+- Deploy as Tensorflow: PyTorch -> ONNX -> Tensorflow
 
 ## Data Engineering
 - Data versioning: DVC
