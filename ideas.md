@@ -19,7 +19,7 @@ Most of these can be found with Google search.
 - Platt scaling
 
 ## Exotic Papers
-- (Differentiation of Blackbox Combinatorial Solvers)[https://arxiv.org/abs/1912.02175]
+- [Differentiation of Blackbox Combinatorial Solvers](https://arxiv.org/abs/1912.02175)
 
 ## Deep Neural Net Training Tricks
 - Minimum Hyperspherical Energy regularization
